@@ -13,6 +13,7 @@ Url:		http://lis.snv.jussieu.fr/~rousse/linux
 Source:		%{name}-%{version}.tar.bz2
 Requires:	fortune-mod
 BuildArch:	noarch
+Buildroot:	%{_tmppath}/%{name}-%{version}
 
 %description
 This is a collection of more than 1250 Murphy's (& Al) laws, ignominously
