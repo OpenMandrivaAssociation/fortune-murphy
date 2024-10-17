@@ -9,7 +9,7 @@ Release:	%{release}
 Summary:	Quotes from Murphy's laws
 License:	GPL
 Group:		Toys
-Url:		http://lis.snv.jussieu.fr/~rousse/linux
+Url:		https://lis.snv.jussieu.fr/~rousse/linux
 Source:		%{name}-%{version}.tar.bz2
 Requires:	fortune-mod
 BuildArch:	noarch
